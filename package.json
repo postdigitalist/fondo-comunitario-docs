@@ -1,0 +1,19 @@
+{
+  "name": "Plataforma de Funding de RedGayLatino - Documentación",
+  "version": "0.0.1",
+  "description": "Documentación de la plataforma de financiamiento comunitario de RedGayLatino (versión beta)",
+  "main": "index.js",
+  "authors": {
+    "name": "Aaron Marco Arias",
+    "email": "aaronmarco@postdigitalist.xyz"
+  },
+  "repository": "/Plataforma de Funding de RedGayLatino - Documentación",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
